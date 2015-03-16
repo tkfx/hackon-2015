@@ -11,13 +11,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 
 # Site Settings
 title: "200M"
-email: "p200m@gmail.com"
+email: "200mconferenceteam@gmail.com"
 description: "200M Product Conference"
 baseurl: "/200M"
-url: "http://tkfx.github.io"
-permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+url: "http://200m.io"
+permalink: ""
+googleAnalyticsTrackingId: "UA-60843204-1"
+googleAnalyticsSiteUrl: "200m.io"
 siteVerification: ""
 
 # Organizer Info
@@ -141,7 +141,7 @@ ticketsOffers:
   ticketsNumber: "200"
   ribbon: ""
   locationConf: "Tel Aviv, exact location will be given upon registration."
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.com/e/200m-product-conference-tickets-16176980785"
   buyButtonText: "Register"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
