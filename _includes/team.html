@@ -5,13 +5,20 @@
             <h3>{{ site.teamBlockTitle }}</h3>
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
-        <!--
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.team != null %}
-            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+            <div class="col-md-3 col-sm-6 col-xs-12 appear-animation" style="display:inline-block;float: none !important;">
+              <p style="font-size: 23px;"><a href="https://www.linkedin.com/profile/view?id=110798337" target="_blank">Mor Klier</a></p>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 appear-animation" style="display:inline-block;float: none !important;">
+              <p style="font-size: 23px;"><a href="https://www.linkedin.com/profile/view?id=3502815" target="_blank">Liat Wager</a></p>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 appear-animation" style="display:inline-block;float: none !important;">
+              <p style="font-size: 23px;"><a href="http://tkfx.in" traget="_blank">Alex Zhitnitsky</a></p>
+            </div>
+            <!--{% for teamMember in site.data.team %} {% if teamMember.team != null %}-->
+                <!--<div class="zoe-effect">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }});">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
@@ -31,9 +38,8 @@
                 </div>
             </div>
             {% endif %} {% endfor %}
-        </div>
-      -->
-        <!--
+        </div>-->
+<!--
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
             {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
@@ -59,8 +65,7 @@
                 </div>
             </div>
             {% endif %} {% endfor %}
-        </div>
-      -->
+        </div>-->
     </div>
 </section>
 <!-- End Team List -->

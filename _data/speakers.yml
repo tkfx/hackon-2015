@@ -7,8 +7,7 @@
   bio: ""
   thumbnailUrl: Doron.jpg
   rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  linkedin: https://www.linkedin.com/profile/view?id=10482418
 -
   id: 4
   name: "Lea"
@@ -18,6 +17,7 @@
   bio: ""
   thumbnailUrl: Lea.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=4231253
 -
   id: 5
   name: "Nadav"
@@ -27,6 +27,7 @@
   bio: ""
   thumbnailUrl: Nadav.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=113525
 -
   id: 6
   name: "Yaakov"
@@ -36,15 +37,17 @@
   bio: ""
   thumbnailUrl: Yaakov.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=18208677
 -
   id: 7
   name: "David"
   surname: "Katz"
-  company: "Entrepeneur"
+  company: "Entrepreneur"
   title: ""
   bio: ""
   thumbnailUrl: David.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=42177660
 -
   id: 8
   name: "Eden"
@@ -54,6 +57,7 @@
   bio: ""
   thumbnailUrl: Eden.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=132959
 -
   id: 9
   name: "Iris"
@@ -63,6 +67,7 @@
   bio: ""
   thumbnailUrl: Iris.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=169804104
 -
   id: 10
   name: "Linat"
@@ -72,3 +77,4 @@
   bio: ""
   thumbnailUrl: Linat.jpg
   rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=3502815

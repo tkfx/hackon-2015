@@ -56,16 +56,16 @@ siteVerification: ""
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "200M <typeout>"
+heroTitle: "200M Product <typeout>"
 eventDate: "Tel Aviv - April 2nd, 2015 - 13:00 - 20:00"
-typeoutTextValues: '"Product Conference","Product Community","Product Leaders","Product Innovation"'
+typeoutTextValues: '"Conference","Community","Leaders","Innovation"'
 typeoutFallback: ""
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Register to attend"}
 
 # About Block
-aboutTitle: "The 200M product conference brings together industry leaders and professionals from the Israeli statrup ecosystem."
+aboutTitle: "The 200M conference brings the best and most passionate product leaders to share their experience with professionals from the Israeli startup ecosystem"
 #aboutBlock:
 # - {title: "", image: "", text: "" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -145,7 +145,7 @@ ticketsOffers:
   buyButtonText: "Register"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
-  validThrough: "2015-03-26T23:59"
+  validThrough: "2015-03-30T23:59"
 # -
 #  name: "Apply for invite"
 #  price: "450"
@@ -240,7 +240,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
