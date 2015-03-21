@@ -6,13 +6,13 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'vendor']
 
 
 # Site Settings
 title: "200M"
 email: "200mconferenceteam@gmail.com"
-description: "200M Product Conference"
+description: "Product Conference"
 baseurl: "/200M"
 url: "http://200m.io"
 permalink: ""
