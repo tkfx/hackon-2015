@@ -29,11 +29,11 @@ siteVerification: ""
 #organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-#metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: ""
 #twitterAccount: "@DevFest"
-#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "http://bit.ly/dfua-c4p"
@@ -190,8 +190,10 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: ""
+teamBlockWhy: "Why"
+aboutWhy: "200M aims to promote product management practices in startups and build a community of product leaders who are keen to share their knowledge and hard won lessons with other product professionals."
+teamBlockHow: "How"
+aboutHow: "200M brings a mix of speakers covering both practical tips as well as inspirational thought leadership on the future of product management. It is a conference by product leaders for product leaders."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
