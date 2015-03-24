@@ -75,7 +75,7 @@ aboutTitle: "The 200M conference brings the best and most passionate product lea
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "", info: "attendees", detail: ""}
- - {count: "8", specialCharacter: "", info: "hours", detail: ""}
+ - {count: "25", specialCharacter: "", info: "minute talks", detail: ""}
  - {count: "8", specialCharacter: "", info: "speakers", detail: ""}
  - {count: "1", specialCharacter: "", info: "awesome conference", detail: ""}
 
@@ -84,7 +84,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 8
+rockstarSpeakersCount: 10
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

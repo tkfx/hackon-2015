@@ -78,3 +78,23 @@
   thumbnailUrl: Linat.jpg
   rockstar: true
   linkedin: https://www.linkedin.com/profile/view?id=3502815
+-
+  id: 11
+  name: "Ilan"
+  surname: "Dray"
+  company: "Inkod-Hypera"
+  title: ""
+  bio: ""
+  thumbnailUrl: Ilan.jpg
+  rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=12566055
+-
+  id: 12
+  name: "Nitzan"
+  surname: "Achsaf"
+  company: "Wix"
+  title: ""
+  bio: ""
+  thumbnailUrl: Nitzan.jpg
+  rockstar: true
+  linkedin: https://www.linkedin.com/profile/view?id=5734888
