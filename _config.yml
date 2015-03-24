@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'vendor']
 title: "200M"
 email: "200mconferenceteam@gmail.com"
 description: "Product Conference"
-baseurl: "/200M"
+baseurl: ""
 url: "http://200m.io"
 permalink: ""
 googleAnalyticsTrackingId: "UA-60843204-1"
