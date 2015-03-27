@@ -22,7 +22,7 @@
   id: 5
   name: "Nadav"
   surname: "Naaman"
-  company: "Docay"
+  company: "Docady"
   title: ""
   bio: ""
   thumbnailUrl: Nadav.jpg
@@ -32,7 +32,7 @@
   id: 6
   name: "Yaakov"
   surname: "Greenshpan"
-  company: "IntelliGym"
+  company: "UX Consultant"
   title: ""
   bio: ""
   thumbnailUrl: Yaakov.jpg
