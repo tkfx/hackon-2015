@@ -76,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "", info: "attendees", detail: ""}
  - {count: "25", specialCharacter: "", info: "minute talks", detail: ""}
- - {count: "10", specialCharacter: "", info: "speakers", detail: ""}
+ - {count: "11", specialCharacter: "", info: "speakers", detail: ""}
  - {count: "1", specialCharacter: "", info: "awesome conference", detail: ""}
 
 # Latest News Block
