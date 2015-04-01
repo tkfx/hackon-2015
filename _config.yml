@@ -131,8 +131,8 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Registration"
-ticketsInfo: "Ticket grants access to all conference sections, coffee brakes, and networking over snacks & beer."
+ticketsTitle: "Registration is now closed!"
+ticketsInfo: "Ticket grants access to all conference sections, coffee breakes, and networking over snacks & beer."
 ticketsOffers:
  -
   name: "Redeem Invite"
