@@ -2,7 +2,7 @@
   date: "2015-04-2"
   dateReadable: "Schedule"
   tracks:
-    - {title: "200M Product Conference", color: "#90be4e"}
+    - {title: "200M Product Conference - Google Campus TLV", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "13:00",
