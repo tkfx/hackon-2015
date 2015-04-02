@@ -57,7 +57,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "200M Product <typeout>"
-eventDate: "Tel Aviv - April 2nd, 2015 - 13:00 - 20:00"
+eventDate: "Tel Aviv, Google Campus TLV - April 2nd, 2015 - 13:00 - 20:00"
 typeoutTextValues: '"Conference","Community","Leaders","Innovation"'
 typeoutFallback: ""
 heroButtons:
