@@ -1,66 +1,42 @@
 -
+  id: 101
+  title: "Meet & Greet"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 201
+  title: "Kickoff!"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 202
+  title: "Team forming"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 203
+  title: "HackOn!"
+  place: "Hall"
+  service: true
+  description: ""
+-
   id: 301
-  title: "Gathering / light lunch"
+  title: "Breakfast snacks"
   place: "Hall"
   service: true
   description: ""
 -
   id: 302
-  title: "Opening remarks / Mor Klier, Linat Wager and Alex Zhitnitsky"
-  place: ""
-  service: true
--
-  id: 303
-  title: "Coffee / Bio Break"
-  place: ""
+  title: "HackOn!"
+  place: "Hall"
   service: true
   description: ""
 -
-  id: 304
-  title: "Networking"
-  place: ""
+  id: 303
+  title: "Judging panel"
+  place: "Hall"
   service: true
--
-  id: 001
-  title: "What users really think about your product"
-  speakers: [9]
--
-  id: 002
-  title: "Pivoting products"
-  speakers: [8]
--
-  id: 003
-  title: "Aha-moments @ Fiverr"
-  speakers: [4]
--
-  id: 004
-  title: "3 Inspirations and a case study"
-  speakers: [3]
--
-  id: 005
-  title: "Lessons I learned the hard(ware) way"
-  speakers: [13]
--
-  id: 006
-  title: "Thinking big and scaling up"
-  speakers: [10]
--
-  id: 007
-  title: "Data-driven product development"
-  speakers: [12]
--
-  id: 008
-  title: "Startup, corporate and in between"
-  speakers: [5]
--
-  id: 009
-  title: "Building Version One"
-  speakers: [7]
--
-  id: 011
-  title: "Top UX mistakes startups make"
-  speakers: [6]
--
-  id: 012
-  title: "Storytelling the user experience"
-  speakers: [11]
+  description: ""

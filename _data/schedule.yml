@@ -1,91 +1,53 @@
 -
-  date: "2015-04-2"
-  dateReadable: "Schedule"
+  date: "2015-06-17"
+  dateReadable: "June 17th"
   tracks:
-    - {title: "200M Product Conference - Google Campus TLV", color: "#90be4e"}
+    - {title: "Hackon! @ Google Haifa", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "13:00",
-    	endTime: "13:30",
+    	startTime: "20:00",
+    	endTime: "21:30",
+    	sessionIds: [101]
+    }
+-
+  date: "2015-06-18"
+  dateReadable: "June 18th"
+  tracks:
+    - {title: "Hackon! @ Google Haifa", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [201]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [202]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "00:00",
+    	sessionIds: [203]
+    }
+-
+  date: "2015-06-19"
+  dateReadable: "June 19th"
+  tracks:
+    - {title: "Hackon! @ Google Haifa", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "20:00",
+    	endTime: "21:30",
     	sessionIds: [301]
     }
     - {
-        startTime: "13:30",
-        endTime: "13:45",
-        sessionIds: [302]
-    }
-    - {
-    	startTime: "13:45",
-    	endTime: "14:15",
-    	sessionIds: [001]
-    }
-    - {
-    	startTime: "14:15",
-    	endTime: "14:45",
-    	sessionIds: [002]
-    }
-    - {
-        startTime: "14:45",
-        endTime: "15:15",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "15:15",
-    	endTime: "15:30",
-    	sessionIds: [303]
-    }
-    - {
-    	startTime: "15:30",
-    	endTime: "16:00",
-    	sessionIds: [004]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:30",
-        sessionIds: [005]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "17:00",
-    	sessionIds: [006]
-    }
-    - {
-        startTime: "17:00",
-        endTime: "17:15",
-        sessionIds: [303]
-    }
-    - {
-        startTime: "17:15",
-        endTime: "17:45",
-        sessionIds: [007]
-    }
-    - {
-    	startTime: "17:45",
-    	endTime: "18:15",
-    	sessionIds: [008]
-    }
-    - {
-    	startTime: "18:15",
-    	endTime: "18:45",
-    	sessionIds: [009]
-    }
-    - {
-    	startTime: "18:45",
-    	endTime: "19:00",
-    	sessionIds: [303]
-    }
-    - {
-        startTime: "19:00",
-        endTime: "19:30",
-        sessionIds: [011]
-    }
-    - {
-    	startTime: "19:30",
-    	endTime: "20:00",
-    	sessionIds: [012]
+    	startTime: "20:00",
+    	endTime: "21:30",
+    	sessionIds: [302]
     }
     - {
     	startTime: "20:00",
-    	endTime: "21:00",
-    	sessionIds: [304]
+    	endTime: "21:30",
+    	sessionIds: [303]
     }
