@@ -6,7 +6,7 @@
   group: "Sponsors"
   elements:
     - {name: "Google", description: "", link: "http://www.google.com/about/", imageUrl: "Google.png", width: "120px"}
-    - {name: "Technion", description: "", link: "http://technion.ac.il", imageUrl: "Technion.png"}
+    - {name: "Technion", description: "", link: "http://www.yazamut.technion.ac.il/", imageUrl: "Technion.png"}
     - {name: "Jetbrains", description: "", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.png"}
 -
   group: "Team"

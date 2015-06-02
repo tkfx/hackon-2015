@@ -5,8 +5,8 @@
     - {title: "TBD", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "20:00",
-    	endTime: "21:30",
+    	startTime: "19:30",
+    	endTime: "21:00",
     	sessionIds: [101]
     }
 -
@@ -27,7 +27,7 @@
     }
     - {
     	startTime: "12:00",
-    	endTime: "00:00",
+    	endTime: "23:00",
     	sessionIds: [203]
     }
 -
@@ -37,17 +37,17 @@
     - {title: "Hackon! @ Google Haifa", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "20:00",
-    	endTime: "21:30",
+    	startTime: "09:00",
+    	endTime: "10:00",
     	sessionIds: [301]
     }
     - {
-    	startTime: "20:00",
-    	endTime: "21:30",
+    	startTime: "10:00",
+    	endTime: "14:00",
     	sessionIds: [302]
     }
     - {
-    	startTime: "20:00",
-    	endTime: "21:30",
+    	startTime: "14:00",
+    	endTime: "16:00",
     	sessionIds: [303]
     }
