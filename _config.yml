@@ -14,10 +14,10 @@ title: "Hackon 2015 // GDG Haifa"
 email: "hackonteam@gmail.com"
 description: "GDG Hackathon @ Google Haifa"
 baseurl: ""
-url: "TODO"
+url: "hackon.gdg.co.il"
 permalink: ""
-googleAnalyticsTrackingId: "TODO"
-googleAnalyticsSiteUrl: "TODO"
+googleAnalyticsTrackingId: "UA-45454041-1"
+googleAnalyticsSiteUrl: "hackon.gdg.co.il"
 siteVerification: ""
 
 # Organizer Info
@@ -65,7 +65,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Register to attend"}
 
 # About Block
-aboutTitle: "Text text text"
+aboutTitle: "HackOn! is a great opportunity to make new connections, form a team, build a web or mobile application, receive professional guidance from our mentors and work on cool creative projects."
 #aboutBlock:
 # - {title: "", image: "", text: "" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -75,7 +75,7 @@ aboutTitle: "Text text text"
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "70", specialCharacter: "", info: "attendees", detail: ""}
- - {count: "3", specialCharacter: "", info: "winning teams", detail: ""}
+ - {count: "3", specialCharacter: "", info: "prizes for top spots", detail: ""}
  - {count: "2", specialCharacter: "", info: "action packed days", detail: ""}
  - {count: "1", specialCharacter: "", info: "awesome hackathon", detail: ""}
 
