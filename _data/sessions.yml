@@ -1,42 +1,60 @@
 -
   id: 101
-  title: "Meet & Greet"
+  title: "Welcome and pitch night"
   place: "Hall"
   service: true
   description: ""
 -
   id: 201
-  title: "Kickoff!"
+  title: "Breakfast and team distribution"
   place: "Hall"
   service: true
   description: ""
 -
   id: 202
-  title: "Team forming"
+  title: "Lunch"
   place: "Hall"
   service: true
   description: ""
 -
   id: 203
-  title: "HackOn!"
+  title: "Dinner"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 204
+  title: "Late night snacks"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 205
+  title: "Go home!"
   place: "Hall"
   service: true
   description: ""
 -
   id: 301
-  title: "Breakfast snacks"
+  title: "Meet and continue Hacking!"
   place: "Hall"
   service: true
   description: ""
 -
   id: 302
-  title: "HackOn!"
+  title: "Lunch"
   place: "Hall"
   service: true
   description: ""
 -
   id: 303
-  title: "Judging panel"
+  title: "Final presentations and judging panel"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 304
+  title: "Announcing the winners"
   place: "Hall"
   service: true
   description: ""

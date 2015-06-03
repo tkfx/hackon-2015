@@ -2,7 +2,7 @@
   date: "2015-06-17"
   dateReadable: "June 17th"
   tracks:
-    - {title: "TBD", color: "#90be4e"}
+    - {title: "Hackon! @ Google Haifa", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "19:30",
@@ -16,19 +16,29 @@
     - {title: "Hackon! @ Google Haifa", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "11:00",
+    	startTime: "9:00",
+    	endTime: "",
     	sessionIds: [201]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "12:00",
+    	startTime: "13:00",
+    	endTime: "",
     	sessionIds: [202]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "23:00",
+    	startTime: "19:00",
+    	endTime: "",
     	sessionIds: [203]
+    }
+    - {
+    	startTime: "21:30",
+    	endTime: "",
+    	sessionIds: [204]
+    }
+    - {
+    	startTime: "23:00",
+    	endTime: "",
+    	sessionIds: [205]
     }
 -
   date: "2015-06-19"
@@ -38,16 +48,21 @@
   timeslots:
     - {
     	startTime: "09:00",
-    	endTime: "10:00",
+    	endTime: "",
     	sessionIds: [301]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "14:00",
+    	startTime: "12:30",
+    	endTime: "",
     	sessionIds: [302]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "16:00",
+    	startTime: "14:30",
+    	endTime: "",
     	sessionIds: [303]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "",
+    	sessionIds: [304]
     }
